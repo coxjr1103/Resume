@@ -1,11 +1,11 @@
 # Jessica R. Cox
 ### Fredericksburg, VA
 | 540.809.0869 | jessica.rose.cox@gmail.com |  
-| [portfolio](https://www.jessicarcox.com)| [LinkedIn](https://www.linkedin.com/in/jessicarcox/) [Vimeo](https://vimeo.com/jessicarcox)
+[Portfolio](https://www.jessicarcox.com) | [LinkedIn](https://www.linkedin.com/in/jessicarcox/) | [Vimeo](https://vimeo.com/jessicarcox)
 ##  **SUMMARY**
 Full-stack developer and start up entrepreneur with background in computer science engineering, filmmaking/editing, marketing, and business management. I am an AI enthusiast, who loves to learn new things and am passionate about using technology to solve problems and putting my ideas into action plans.
  
-##  **TECHNICAL/LANGUAGE SKILLS** 
+##  **SKILLS** 
 Experienced in ```Ruby```, ```Rails```, ```SQL```, ```Javscript```, ```React```, ```React Native```, ```HTML```, ```CSS```, CSS frameworks, Premier Pro, Final Cut Pro, Adobe Indesign and Audition, Basic usage of ```Java```, ```C++```, ```Python```,  Fluent in Tibetan, Conversational Hindi and Chinese 
  
 ##  **TECHNICAL PROJECTS**
@@ -68,11 +68,11 @@ I was learning python and found their official documentaion page not userfirendl
   * Shot, edited and published videos ( news, documentaries, interviews ) and wrote daily news articles
 
 ## **EDUCATION**
-- [x] Master of Professional Studies, User Experience Design
-Marlyand Institue College of Art |	Baltimore, MD  **01/2019 - 05/2020**
+- [x] Master of Professional Studies, **User Experience Design** 
+Marlyand Institue College of Art |	Baltimore, MD  *01/2019 - 05/2020*
 
-- [x] Bachelor of Fine Art, Graphic Design  
-Longwood University | Farmville, VA	 **08/2008 - 05/2012**
+- [x] Bachelor of Fine Art, **Graphic Design**  
+Longwood University | Farmville, VA	 *08/2008 - 05/2012*
 
 
 ## **ACHIEVEMENTS**
