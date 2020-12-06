@@ -1,12 +1,20 @@
-# Jessica R. Cox
-### Fredericksburg, VA
-| 540.809.0869 | jessica.rose.cox@gmail.com |  
+## Jessica R. Cox
+#### Fredericksburg, VA
+ 540.809.0869 | jessica.rose.cox@gmail.com   
 [Portfolio](https://www.jessicarcox.com) | [LinkedIn](https://www.linkedin.com/in/jessicarcox/) | [Vimeo](https://vimeo.com/jessicarcox)
-##  **SUMMARY**
-Full-stack developer and start up entrepreneur with background in computer science engineering, filmmaking/editing, marketing, and business management. I am an AI enthusiast, who loves to learn new things and am passionate about using technology to solve problems and putting my ideas into action plans.
+##  _*SUMMARY*_
+User experience designer with background in graphic design and education. I am an AI enthusiast, who loves to learn new things and am passionate about using technology to solve problems and putting my ideas into action plans.
  
 ##  **SKILLS** 
-Experienced in ```Ruby```, ```Rails```, ```SQL```, ```Javscript```, ```React```, ```React Native```, ```HTML```, ```CSS```, CSS frameworks, Premier Pro, Final Cut Pro, Adobe Indesign and Audition, Basic usage of ```Java```, ```C++```, ```Python```,  Fluent in Tibetan, Conversational Hindi and Chinese 
+```Software```
+  Adobe Creative Cloud, InDesign, Illustrator, Photoshop, Xd, Figma, Sketch, InVision, Windows, Microsoft Suite, Google Workspace, iOs, iMovie 
+
+```Design``` Design process, Strategy, Project management, Journey mapping, User sceanarios, User personas, Wireframing, Wireflows, Prototyping, Content writing, Accessibility, Branding, Layout, Typography,
+
+```Research``` Usability testing, 
+
+```Social``` Leadership, Creative thinking, Collaboration, Verbal, written, and visual communication, Time management
+
  
 ##  **TECHNICAL PROJECTS**
 ###  **Fisbum** 
