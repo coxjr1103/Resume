@@ -9,7 +9,7 @@ User experience designer with background in graphic design and education. I am a
 ```Software```
   Adobe Creative Cloud, InDesign, Illustrator, Photoshop, Xd, Figma, Sketch, InVision, Windows, Microsoft 365, Google Workspace, iOs, iMovie 
 
-```Design``` Design process, Strategy, Project management, Journey mapping, User sceanarios, User personas, Wireframing, Wireflows, Prototyping, Content writing, Accessibility, Branding, Layout, Typography, User interface (UI)
+```Design``` Design process, Strategy, Project management, Journey mapping, User sceanarios, User personas, Wireframing, Wireflows, Prototyping, Content writing, Accessibility, Branding, Layout, Typography, Iteration, Critique/Review, User interface (UI)
 
 ```Research``` Competitive Analysis, Heuristic evaluation, Card sorting, User surveys, User Interviews, Usability testing 
 
