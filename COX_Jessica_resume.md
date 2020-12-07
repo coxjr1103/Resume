@@ -15,19 +15,6 @@ User experience designer with background in graphic design and education. I am a
 
 ```Social``` Leadership, Creative thinking, Collaboration, Time management, Verbal, written, and visual communication
 
- 
-##  **PROJECTS & EVENTS**
-###  **Petconnect** 
-[Report](https://www.jessicarcox.com/petconnect) | [Prototype](https://xd.adobe.com/view/06d2586a-7f31-4cdd-64b9-d1e624f99faf-70e3/)  
-End to end product development of mobile application reimagining the companion animal adoption process.  
-**Roles:**  
-**Technology:** Adobe Xd 
-
-### **UX Design Hackathon 2020**
-[Presentation](https://youtu.be/b3Eh3hOjqRg) | [Prototype](https://www.figma.com/file/NxcNMhQTaPmyeNDuirFps6/BARK?node-id=0%3A1)  
-24-hour design challenge exploring the onboarding process for a smart dog collar mobile application.  
-**Roles:**  
-**Technology:** Figma
 
 ## DESIGN EXPERIENCE
 
@@ -58,8 +45,15 @@ Marlyand Institue College of Art |	Baltimore, MD  *01/2019 - 05/2020*
 Longwood University | Farmville, VA	 *08/2008 - 05/2012*
 
 
-## **ACHIEVEMENTS**
-- [x] Best Effort Hack Oct,2020  
-*Won the Best Effort Hack from HV Tech Fesitival 24hrs Hackathon for our project Kare*
-- [x] Best Boy Dec, 2015  
-*Won the Best boy of year Award for exellent performance in academics and leadership in students council from Central Tibetan Administration among 2000+ students.*
+##  **PROJECTS & EVENTS**
+###  **Petconnect** 
+[Report](https://www.jessicarcox.com/petconnect) | [Prototype](https://xd.adobe.com/view/06d2586a-7f31-4cdd-64b9-d1e624f99faf-70e3/)  
+End to end product development of mobile application reimagining the companion animal adoption process.  
+**Roles:**  
+**Technology:** Adobe Xd 
+
+### **UX Design Hackathon 2020**
+[Presentation](https://youtu.be/b3Eh3hOjqRg) | [Prototype](https://www.figma.com/file/NxcNMhQTaPmyeNDuirFps6/BARK?node-id=0%3A1)  
+24-hour design challenge exploring the onboarding process for a smart dog collar mobile application.  
+**Roles:**  
+**Technology:** Figma
