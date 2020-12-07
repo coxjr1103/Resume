@@ -39,21 +39,24 @@ User experience designer with background in graphic design and education. I am a
 
 ## **EDUCATION**
 - [x] Master of Professional Studies, **User Experience Design**  
-Marlyand Institue College of Art |	Baltimore, MD  *01/2019 - 05/2020*
+Marlyand Institue College of Art |	Baltimore, MD  *01/2019 - 05/2020*  
+  * 4.0 GPA  
 
 - [x] Bachelor of Fine Art, **Graphic Design**  
-Longwood University | Farmville, VA	 *08/2008 - 05/2012*
+Longwood University | Farmville, VA	 *08/2008 - 05/2012*  
+  * Dean's List 2012
+  * Selected as one of nine in-house designers
 
 
 ##  **PROJECTS & EVENTS**
 ###  **Petconnect** 
 [Report](https://www.jessicarcox.com/petconnect) | [Prototype](https://xd.adobe.com/view/06d2586a-7f31-4cdd-64b9-d1e624f99faf-70e3/)  
 End to end product development of mobile application reimagining the companion animal adoption process.  
-**Roles:**  
+**Roles:** User researcher, User interface designer, Prototyper  
 **Technology:** Adobe Xd 
 
 ### **UX Design Hackathon 2020**
 [Presentation](https://youtu.be/b3Eh3hOjqRg) | [Prototype](https://www.figma.com/file/NxcNMhQTaPmyeNDuirFps6/BARK?node-id=0%3A1)  
 24-hour design challenge exploring the onboarding process for a smart dog collar mobile application.  
-**Roles:**  
+**Roles:** User researcher, Deck designer, Presenter  
 **Technology:** Figma
