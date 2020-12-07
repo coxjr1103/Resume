@@ -20,36 +20,35 @@ User experience designer with background in graphic design and education. I am a
 ###  **Petconnect** 
 [Report](https://www.jessicarcox.com/petconnect) | [Prototype](https://xd.adobe.com/view/06d2586a-7f31-4cdd-64b9-d1e624f99faf-70e3/)
 End to end product development of mobile application reimagining the companion animal adoption process.  
-**Technologies Used:** React Native and  Native Base in Expo CLI as frontend and Rails as backend.Used Redux and Hooks for State Management tool, used React-native maps, React-native-camera, React native qr-code svg
+**Roles:**
+**Technology:** Adobe Xd 
 
 ### **UX Design Hackathon 2020**
-[Presentation](https://github.com/Calls4ever/HomeHue-front-end) | [Prototype](https://www.figma.com/file/NxcNMhQTaPmyeNDuirFps6/BARK?node-id=0%3A1) |
+[Presentation](https://youtu.be/b3Eh3hOjqRg) | [Prototype](https://www.figma.com/file/NxcNMhQTaPmyeNDuirFps6/BARK?node-id=0%3A1)
 24-hour design challenge exploring the onboarding process for a smart dog collar mobile application.  
-**Technologies Used:** Ruby on Rails as back-end and React as front end, AI API for extracting colors from photo and Bootstrap and Semantic UI for styling purposes
+**Roles:**  
+**Technology:** Figma
 
+## ** DESIGN EXPERIENCE**
 
-## **EXPERIENCE**
-
-### FightPandemics - Remote (Global)(volunteer)
- #### Frontend Developer	     10/2016 - present
-  * Improved the desktop/mobile web experience
-  * Added new tickets
+### Freelance Designer
+ #### Prince William County Public Schools	     07/2015 - present
+  * Expert in developing and creating engaging experiences for users in the learning environment based on behavior, audience, and through relationship building
+  * Consideration for accessibility, inclusivity, differentitation and need to be flexible, adaptable
+  * Strong visual, written, and oral communication
+  * Collaboration with several stakeholders including students, parents, counselors, administration, other teachers
+  * Management, assessment, and evaluation of over 120 students
   
+## ** PROFESSIONAL EXPERIENCE**
 
-### Palnor LLP (fashion ecommerce) - Bylakuppe, KS, India  
- #### Director/Founder	     12/2016 - 12/2019
- Start up company that engaged  in nanotechnological apparel and ecommerce business.
-  * Secured 300,000 INR + in investments to start organization
-  * Reviewed daily reports and delegated tasks to a team of 16 staff
-  * Built and maintained our Shopify site, IOS and Android apps
-  * Located and secured quality raw materials for production
-  * Planned and executed leasing and opening of manufacturing units and two store fronts
-  * Developed and maintained relationship with couriers to ship product 
+### Visual Art & Design Educator
+ #### Prince William County Public Schools	     07/2015 - present
+  * Expert in developing and creating engaging experiences for users in the learning environment based on behavior, audience, and through relationship building
+  * Consideration for accessibility, inclusivity, differentitation and need to be flexible, adaptable
+  * Strong visual, written, and oral communication
+  * Collaboration with several stakeholders including students, parents, counselors, administration, other teachers
+  * Management, assessment, and evaluation of over 120 students
 
-### Tibet Times (NFP)	Dharamsala, HP, India  
-#### News Reporter, Website Maintainer, Video Editor	       08/2018 - 10/2018
-  * Redesigned, and maintained website
-  * Shot, edited and published videos ( news, documentaries, interviews ) and wrote daily news articles
 
 ## **EDUCATION**
 - [x] Master of Professional Studies, **User Experience Design** 
