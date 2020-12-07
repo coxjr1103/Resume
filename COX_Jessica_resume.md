@@ -18,12 +18,12 @@ User experience designer with background in graphic design and education. I am a
  
 ##  **PROJECTS & EVENTS**
 ###  **Petconnect** 
-[Report](https://www.jessicarcox.com/petconnect) | [Prototype] (https://xd.adobe.com/view/06d2586a-7f31-4cdd-64b9-d1e624f99faf-70e3/)
+[Report](https://www.jessicarcox.com/petconnect) | [Prototype](https://xd.adobe.com/view/06d2586a-7f31-4cdd-64b9-d1e624f99faf-70e3/)
 End to end product development of mobile application reimagining the companion animal adoption process.  
 **Technologies Used:** React Native and  Native Base in Expo CLI as frontend and Rails as backend.Used Redux and Hooks for State Management tool, used React-native maps, React-native-camera, React native qr-code svg
 
 ### **UX Design Hackathon 2020**
-[Front-end](https://github.com/Calls4ever/HomeHue-front-end) | [Backend](https://github.com/Calls4ever/HomeHue-back-end) | [Demo](https://youtu.be/ak3OjLj_duU) |
+[Presentation](https://github.com/Calls4ever/HomeHue-front-end) | [Prototype](https://www.figma.com/file/NxcNMhQTaPmyeNDuirFps6/BARK?node-id=0%3A1) |
 24-hour design challenge exploring the onboarding process for a smart dog collar mobile application.  
 **Technologies Used:** Ruby on Rails as back-end and React as front end, AI API for extracting colors from photo and Bootstrap and Semantic UI for styling purposes
 
